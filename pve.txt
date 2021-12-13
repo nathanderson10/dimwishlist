@@ -10,3 +10,17 @@ dimwishlist:item=2708806099&perks=839105230,679225683,3523296417,11612903
 dimwishlist:item=2708806099&perks=4090651448,679225683,3523296417,11612903
 dimwishlist:item=2708806099&perks=1840239774,679225683,3523296417,11612903
 dimwishlist:item=2708806099&perks=1482024992,679225683,3523296417,11612903
+
+// Eyasluna
+
+// Retraced Path
+
+// Wastelander M5
+
+// Hero of Ages
+
+// Pardon Our Dust
+
+// Half-Truths
+
+// 1000 Yard Stare
