@@ -1,0 +1,4 @@
+title:dabbrz PvP wishlist
+description:List of weapon combinations useful for PvP content
+
+// BxR-55 Battler
