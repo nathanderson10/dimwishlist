@@ -1,2 +1,5 @@
+title:dabbrz PvE wishlist
+description:List of weapon combinations useful for trivial and challenging PvE content
+
 // BxR-55 Battler
 dimwishlist:item=2708806099&perks=1840239774,3230963543,3523296417,11612903,186337601
