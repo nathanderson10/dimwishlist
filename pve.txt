@@ -4,3 +4,6 @@ description:List of weapon combinations useful for trivial and challenging PvE c
 // Reed's Regret (Adept)
 dimwishlist:item=2475355656&perks=839105230,689005463,3400784728,1771339417
 dimwishlist:item=2475355656&perks=839105230,689005463,3400784728,2896038713
+
+// ROAR OF THE BEAR
+dimwishlist:item=4009352833&perks=981914802,3796465595,3523296417,3927722942
