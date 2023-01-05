@@ -2,3 +2,6 @@ title:dabbrz PvP wishlist
 description:List of weapon combinations useful for PvP content
 
 // BxR-55 Battler
+
+// IKELOS_SMG_V1.0.3
+dimwishlist:item=2149683300&perks=202670084,1140096971,4207509907,509594246
